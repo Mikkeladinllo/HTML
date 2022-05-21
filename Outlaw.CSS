@@ -1,0 +1,42 @@
+body
+{
+    margin: 0px;
+}
+#container
+{
+    width: 1020px;
+    margin:0px auto;
+    text-align: center;
+}   
+#header
+{
+    width: 964px;
+    height: 90px;
+    background: #6b5006;
+    color: white;
+    border: solid 2px #000;
+}
+#main
+{
+    margin:0px;
+    font-size: 110%;
+    width: 1000px;
+    height: 1100px;
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    border: solid 2px #000;
+    text-align: left;
+}
+.test
+{
+    display:block;
+    text-align: left;
+}
+#footer
+{
+    margin: 0px;
+    height: 75px;
+    background: #000000;
+    border: solid 2px #000;
+    clear: both;
+}
