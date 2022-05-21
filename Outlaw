@@ -1,13 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title> 
-            Outlaw Chili
-        </title>
+        <meta charset="">
+        <meta http-equiv="" content="">
+        <meta name="">
+        <title> Outlaw Gourmet </title>
+        <link rel="stylesheet" href="Outlaw.css">
     </head>
-<body>
-    <a href="http://www.aboutoutlaw.com/" class="nav2" id="url">About Us</a>
     
+<body>
+    <div id="container">
+    <div id="Header">
+        <img src="printed label.jpg" href="C:\Users\mikke\OneDrive\Desktop\Stuff">
+        <h1> Outlaw Gourmet </h1>
+    </div>
+    <div id="main">
+    <div id="box">
+    <div id="text">
+        <p> Our Products: </p>
+    </div>
+    </div>
+    <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+    <div id="footer">
+    </div>
+    <br>
+    </section>
+    <a href="http://www.outlawgourmet.com/about-outlaw/" class="nav2" id="url">About Us</a>
+    <br> <br>
+    <a href="http://www.outlawgourmet.com/contact-outlaw/" class="nav2" id="url">Contact Us</a>
+    <br> <br>
+    <a href="http://www.outlawgourmet.com/find-outlaw/" class="nav2" id="url">Find Our Products</a>
 </body>
     
 </html>
